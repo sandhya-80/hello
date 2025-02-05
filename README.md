@@ -2,10 +2,12 @@
 I am pursuing a Masters degree in Computer Applications from UIM. I currently work at FusionPact, specializing in Rust and Scala development as an Intern.
 
 # KEY ATTRIBUTES
-<B>• Technical skills:</B><BR>
-   JAVA, C#, Python, HTML, CSS, JavaScript, Power BI, MS-Excel, Data Entry, Web Designing, Office Suit, DBMS, MySQL, Data Analysis.<BR>
-<B>• Key strengths:</B><BR>
-   Quick learner, Cooperative, Listening, Touch Typing.<BR>
+<OL>
+<LI><B>Technical skills:</B><BR>
+   JAVA, C#, Python, HTML, CSS, JavaScript, Power BI, MS-Excel, Data Entry, Web Designing, Office Suit, DBMS, MySQL, Data Analysis.<BR></LI>
+   
+<LI><B>Key strengths:</B><BR>
+   Quick learner, Cooperative, Listening, Touch Typing.<BR></LI></OL>
 
 # TRAINING DONE
 • Full Stack Developer Training Program by United Institute of Management.<BR>
